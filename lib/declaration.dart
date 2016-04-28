@@ -1,0 +1,5 @@
+
+
+String oneVariable;
+
+oneUsage() => oneVariable;
